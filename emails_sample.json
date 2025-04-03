@@ -1,0 +1,4002 @@
+[
+  {
+    "email_id": "EML7000",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-12T02:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7001",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-16T19:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7002",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-17T08:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7003",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-02-26T13:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7004",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-27T02:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7005",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-10T07:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7006",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-02-26T07:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7007",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-10T17:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7008",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-12T16:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7009",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-09T21:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7010",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-08T18:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7011",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-26T23:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7012",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-14T20:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7013",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-02-26T05:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7014",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-17T22:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7015",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-02-26T08:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7016",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-16T18:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7017",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-03T23:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7018",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-27T12:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7019",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-04T22:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7020",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-22T08:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7021",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-18T06:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7022",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-02T12:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7023",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-22T13:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7024",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-08T06:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7025",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-22T10:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7026",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-03T16:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7027",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-08T16:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7028",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-01T22:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7029",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-25T20:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7030",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-10T00:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7031",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-10T07:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7032",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-02-25T19:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7033",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-11T00:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7034",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-03T16:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7035",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-17T18:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7036",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-05T18:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7037",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-07T21:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7038",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-16T12:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7039",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-04T16:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7040",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-08T11:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7041",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-02-28T06:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7042",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-03T13:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7043",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-02-27T15:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7044",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-07T19:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7045",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-22T03:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7046",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-01T04:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7047",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-15T04:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7048",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-05T09:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7049",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-12T19:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7050",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-27T13:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7051",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-15T22:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7052",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-02-27T06:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7053",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-12T06:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7054",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-23T07:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7055",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-05T18:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7056",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-03T07:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7057",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-27T09:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7058",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-19T02:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7059",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-12T16:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7060",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-15T15:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7061",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-14T11:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7062",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-03T09:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7063",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-27T14:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7064",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-07T23:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7065",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-28T03:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7066",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-27T04:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7067",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-14T22:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7068",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-28T11:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7069",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-14T14:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7070",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-15T09:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7071",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-14T19:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7072",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-22T18:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7073",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-17T02:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7074",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-16T15:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7075",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-08T01:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7076",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-26T05:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7077",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-12T09:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7078",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-27T16:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7079",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-17T11:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7080",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-20T09:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7081",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-22T11:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7082",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-20T22:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7083",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-11T08:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7084",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-03T18:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7085",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-21T02:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7086",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-01T14:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7087",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-14T14:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7088",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-02T08:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7089",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-02-27T01:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7090",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-03T22:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7091",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-13T04:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7092",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-18T21:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7093",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-18T18:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7094",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-25T23:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7095",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-02T23:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7096",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-02-28T22:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7097",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-04T00:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7098",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-01T14:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7099",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-02-28T03:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7100",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-08T08:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7101",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-01T09:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7102",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-20T12:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7103",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-18T20:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7104",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-23T14:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7105",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-07T20:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7106",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-15T03:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7107",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-10T02:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7108",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-23T01:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7109",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-02-28T23:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7110",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-18T03:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7111",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-24T14:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7112",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-01T09:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7113",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-01T06:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7114",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-20T15:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7115",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-18T08:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7116",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-25T03:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7117",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-02T03:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7118",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-09T19:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7119",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-05T17:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7120",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-19T10:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7121",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-27T08:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7122",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-21T08:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7123",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-27T10:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7124",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-02-28T03:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7125",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-21T15:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7126",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-18T00:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7127",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-09T16:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7128",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-11T15:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7129",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-13T05:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7130",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-17T09:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7131",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-06T14:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7132",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-05T02:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7133",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-28T10:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7134",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-01T10:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7135",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-02T19:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7136",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-26T02:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7137",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-08T00:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7138",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-08T20:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7139",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-25T18:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7140",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-10T17:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7141",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-26T23:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7142",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-26T17:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7143",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-03T06:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7144",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-07T09:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7145",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-10T00:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7146",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-19T13:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7147",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-14T06:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7148",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-15T17:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7149",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-17T13:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7150",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-03T12:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7151",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-02-27T07:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7152",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-05T19:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7153",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-28T11:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7154",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-10T06:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7155",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-15T08:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7156",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-19T03:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7157",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-27T19:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7158",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-07T05:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7159",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-02-26T06:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7160",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-08T08:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7161",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-02-26T05:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7162",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-16T14:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7163",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-03T21:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7164",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-12T23:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7165",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-12T22:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7166",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-12T00:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7167",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-17T20:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7168",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-18T23:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7169",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-05T03:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7170",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-11T08:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7171",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-22T16:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7172",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-16T12:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7173",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-04T04:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7174",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-08T22:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7175",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-26T08:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7176",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-17T01:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7177",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-07T18:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7178",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-20T13:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7179",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-15T04:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7180",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-24T20:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7181",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-02-26T01:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7182",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-22T20:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7183",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-24T06:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7184",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-19T12:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7185",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-09T14:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7186",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-05T15:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7187",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-27T04:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7188",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-19T17:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7189",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-04T23:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7190",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-27T19:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7191",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-03T21:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7192",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-01T06:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7193",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-25T03:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7194",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-04T17:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7195",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-06T07:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7196",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-16T20:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7197",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-28T11:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7198",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-22T18:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7199",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-06T02:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7200",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-18T09:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7201",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-22T10:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7202",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-24T21:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7203",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-25T19:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7204",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-13T23:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7205",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-07T20:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7206",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-12T20:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7207",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-02T21:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7208",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-15T21:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7209",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-02-27T03:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7210",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-25T20:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7211",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-27T12:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7212",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-02T07:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7213",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-10T04:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7214",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-22T06:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7215",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-11T00:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7216",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-08T18:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7217",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-27T11:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7218",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-03T10:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7219",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-23T06:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7220",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-20T22:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7221",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-17T18:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7222",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-23T01:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7223",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-14T19:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7224",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-11T04:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7225",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-23T04:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7226",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-08T21:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7227",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-09T18:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7228",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-09T23:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7229",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-28T00:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7230",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-15T17:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7231",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-02-27T04:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7232",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-01T17:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7233",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-07T09:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7234",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-23T03:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7235",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-17T06:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7236",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-06T04:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7237",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-16T17:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7238",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-03T15:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7239",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-26T20:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7240",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-25T02:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7241",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-05T02:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7242",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-28T00:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7243",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-26T18:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7244",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-13T11:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7245",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-20T04:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7246",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-08T07:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7247",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-06T03:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7248",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-03T15:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7249",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-12T08:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7250",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-12T23:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7251",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-09T23:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7252",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-11T15:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7253",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-03T23:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7254",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-03T05:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7255",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-15T02:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7256",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-22T02:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7257",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-06T17:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7258",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-27T16:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7259",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-16T09:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7260",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-02-27T20:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7261",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-24T02:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7262",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-15T17:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7263",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-21T13:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7264",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-17T01:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7265",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-10T08:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7266",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-21T05:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7267",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-01T04:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7268",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-22T17:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7269",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-19T06:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7270",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-21T15:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7271",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-25T11:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7272",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-02-26T23:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7273",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-20T21:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7274",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-06T08:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7275",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-02T12:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7276",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-14T09:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7277",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-09T18:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7278",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-15T01:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7279",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-02T09:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7280",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-05T00:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7281",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-03T00:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7282",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-07T04:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7283",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-22T19:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7284",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-19T10:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7285",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-05T07:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7286",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-17T08:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7287",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-21T04:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7288",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-03T12:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7289",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-21T18:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7290",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-13T00:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7291",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-25T16:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7292",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-23T02:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7293",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-08T11:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7294",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-09T04:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7295",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-03T16:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7296",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-09T16:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7297",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-22T01:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7298",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-03T06:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7299",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-10T07:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7300",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-20T20:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7301",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-02-27T17:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7302",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-02T20:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7303",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-10T12:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7304",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-05T11:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7305",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-13T12:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7306",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-21T16:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7307",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-19T18:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7308",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-25T10:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7309",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-19T12:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7310",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-18T14:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7311",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-19T19:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7312",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-15T05:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7313",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-15T09:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7314",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-22T03:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7315",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-25T10:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7316",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-13T23:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7317",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-16T12:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7318",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-24T07:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7319",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-25T13:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7320",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-27T22:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7321",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-02-27T18:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7322",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-03T15:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7323",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-11T17:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7324",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-15T02:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7325",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-07T08:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7326",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-27T22:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7327",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-25T19:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7328",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-16T15:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7329",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-02T13:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7330",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-06T10:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7331",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-12T02:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7332",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-27T05:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7333",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-18T02:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7334",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-18T15:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7335",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-20T23:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7336",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-14T08:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7337",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-17T23:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7338",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-21T04:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7339",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-24T01:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7340",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-18T07:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7341",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-18T23:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7342",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-05T16:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7343",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-02-27T10:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7344",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-20T06:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7345",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-20T03:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7346",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-20T09:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7347",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-02-28T16:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7348",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-15T09:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7349",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-09T03:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7350",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-20T05:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7351",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-02T23:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7352",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-02-27T06:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7353",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-18T00:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7354",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-17T16:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7355",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-27T05:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7356",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-18T23:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7357",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-08T12:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7358",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-15T03:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7359",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-22T09:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7360",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-13T01:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7361",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-03T15:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7362",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-09T14:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7363",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-15T16:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7364",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-21T11:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7365",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-02-26T22:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7366",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-26T19:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7367",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-18T15:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7368",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-16T01:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7369",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-01T12:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7370",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-15T13:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7371",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-21T12:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7372",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-21T21:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7373",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-03T03:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7374",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-02T21:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7375",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-20T16:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7376",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-14T02:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7377",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-21T14:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7378",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-01T05:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7379",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-18T04:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7380",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-16T15:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7381",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-06T15:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7382",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-07T16:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7383",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-11T00:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7384",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-22T04:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7385",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-19T03:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7386",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-05T21:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7387",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-06T05:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7388",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-22T14:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7389",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-27T08:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7390",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-19T12:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7391",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-19T09:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7392",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-21T21:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7393",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-04T20:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7394",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-24T18:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7395",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-06T01:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7396",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-10T01:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7397",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-21T00:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7398",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-06T00:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7399",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-26T19:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7400",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-22T19:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7401",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-26T19:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7402",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-08T06:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7403",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-05T02:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7404",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-11T06:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7405",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-14T16:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7406",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-13T16:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7407",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-17T23:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7408",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-04T02:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7409",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-02-27T16:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7410",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-24T18:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7411",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-09T10:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7412",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-13T05:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7413",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-07T10:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7414",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-09T02:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7415",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-18T15:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7416",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-02T20:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7417",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-09T21:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7418",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-02-26T04:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7419",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-26T02:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7420",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-02-27T20:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7421",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-18T01:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7422",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-02-27T19:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7423",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-13T04:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7424",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-27T21:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7425",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-09T19:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7426",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-06T14:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7427",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-02-26T15:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7428",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-20T06:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7429",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-21T02:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7430",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-23T17:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7431",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-03T21:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7432",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-07T16:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7433",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-02T12:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7434",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-21T18:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7435",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-01T21:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7436",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-05T21:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7437",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-27T03:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7438",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-27T08:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7439",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-26T04:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7440",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-13T10:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7441",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-05T13:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7442",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-22T21:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7443",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-12T11:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7444",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-12T12:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7445",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-25T02:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7446",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-19T21:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7447",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-02-25T13:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7448",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-09T09:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7449",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-02-27T23:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7450",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-26T17:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7451",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-12T06:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7452",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-04T05:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7453",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-20T20:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7454",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-24T01:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7455",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-02-26T15:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7456",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-02-27T01:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7457",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-24T23:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7458",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-14T06:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7459",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-06T16:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7460",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-23T21:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7461",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-04T16:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7462",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-22T11:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7463",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-09T01:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7464",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-03T16:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7465",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-23T17:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7466",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-17T22:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7467",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-24T01:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7468",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-25T06:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7469",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-02-28T15:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7470",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-02-25T22:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7471",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-24T14:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7472",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-19T03:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7473",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-02-27T13:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7474",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-25T00:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7475",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-22T07:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7476",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-17T01:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7477",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-23T08:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7478",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-20T18:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7479",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-27T00:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7480",
+    "sender": "support@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-19T10:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7481",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-02-26T23:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7482",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-16T14:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7483",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-02-25T20:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7484",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-17T18:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7485",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-16T10:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7486",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-05T14:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7487",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-22T02:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7488",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-22T03:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7489",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-16T03:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7490",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-22T21:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7491",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-20T12:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7492",
+    "sender": "support@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-23T04:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7493",
+    "sender": "support@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Monthly Report",
+    "timestamp": "2025-03-09T00:17:46.815954",
+    "status": "failed"
+  },
+  {
+    "email_id": "EML7494",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-01T14:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7495",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-26T17:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7496",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-21T07:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7497",
+    "sender": "sales@crm.io",
+    "receiver": "customer2@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-03-21T00:17:46.815954",
+    "status": "sent"
+  },
+  {
+    "email_id": "EML7498",
+    "sender": "sales@crm.io",
+    "receiver": "customer1@example.com",
+    "subject": "CRM Integration",
+    "timestamp": "2025-03-25T01:17:46.815954",
+    "status": "bounced"
+  },
+  {
+    "email_id": "EML7499",
+    "sender": "sales@crm.io",
+    "receiver": "customer3@example.com",
+    "subject": "Onboarding Help",
+    "timestamp": "2025-02-28T06:17:46.815954",
+    "status": "failed"
+  }
+]
