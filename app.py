@@ -5,7 +5,8 @@ from datetime import datetime, timedelta
 app = Flask(__name__)
 
 # MongoDB connection
-client = MongoClient("mongodb+srv://devanshi:test123@crm-cluster.8ixgwc0.mongodb.net/")
+MONGO_URI = os.getenv("MONGODB_URI", "mongodb+srv://devanshi:test123@crm-cluster.8ixgwc0.mongodb.net/")
+client = MongoClient(MONGO_URI)
 db = client["CRM"]
 collection = db["Email Conversations"]
 
@@ -91,4 +92,4 @@ def index():
     return render_template("index.html", results=results, user_query=user_query)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=int(os.getenv("PORT", 10000)))
